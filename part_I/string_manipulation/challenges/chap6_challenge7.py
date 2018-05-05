@@ -1,2 +1,2 @@
-first_index = "Hemingway".index("H")
+first_index = "Hemingway".index("m")
 print(first_index)
